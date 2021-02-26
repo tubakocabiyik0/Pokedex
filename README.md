@@ -2,16 +2,15 @@
 # Pokedex
 Pokedex app with using pokedex api
 =======
-<<<<<<< HEAD
-# Pokedex
-Pokedex app with using pokedex api
-=======
-# poke_dex
 
 A new Flutter application.
 
-## Getting Started
-![Ekran Görüntüsü (127)](https://user-images.githubusercontent.com/67241512/109289500-58021d00-7837-11eb-93e5-881cea160f2e.png)
+## Images From App 
+
+![Ekran Görüntüsü (124)](https://user-images.githubusercontent.com/67241512/109289996-18880080-7838-11eb-9b8d-b28ec8ce4bf1.png)
+
+
+![Ekran Görüntüsü (129)](https://user-images.githubusercontent.com/67241512/109289905-f0989d00-7837-11eb-882d-573ca686457b.png)
 
 
 
